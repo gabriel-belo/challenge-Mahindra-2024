@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import jsonData from './data.json';
+import jsonData from '../dados.json';
 
 const Home = () => {
     const [inputValue, setInputValue] = useState('');
