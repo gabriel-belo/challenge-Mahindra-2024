@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom'
 import logo1 from  '../assets/formula-e-logo.png'
-import { NavStyle } from "../style/NavStyle"
+import { NavStyle } from "../css/NavStyle"
 import { useState, useEffect } from 'react'
 import { FaBars } from 'react-icons/fa6';
 

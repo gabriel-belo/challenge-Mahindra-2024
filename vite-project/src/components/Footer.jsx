@@ -1,4 +1,4 @@
-import { FooterStyle } from "../style/FooterStyle"
+import { FooterStyle } from "../css/FooterStyle"
 import { CgInstagram } from "react-icons/cg";
 import { CgFacebook } from "react-icons/cg";
 import { CgTwitter } from "react-icons/cg";
